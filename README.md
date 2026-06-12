@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>🏎️ Forza Horizon 6 - RX 500 Series Fix</h1>
-  <p><strong>Experimental fix for AMD RX 580 / Polaris graphics cards experiencing the FH201 or FH205 startup errors.</strong></p>
+  <h1># Forza Horizon 6 FH201/FH205 Fix for AMD RX 580 & RX 500 Series</h1>
+  <p><strong>Experimental Windows fix for Forza Horizon 6 FH201 and FH205 startup errors on AMD RX 580, RX 570, RX 590 and other RX 500 Series / Polaris graphics cards. This uses a D3D12 proxy DLL to help unsupported AMD Polaris GPUs pass the game startup check.</strong></p>
 
   [![Creator](https://img.shields.io/badge/Created_by-Muhammad_Sameer-blue.svg)](https://www.youtube.com/@sameer-_-2605)
   [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red.svg?logo=youtube)](https://www.youtube.com/@sameer-_-2605)

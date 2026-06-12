@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://seudominio.com/sitemap.xml
+Sitemap: https://mhdsameerkhan.github.io/ForzaHorizon6-Rx500-series-fix/sitemap.xml
